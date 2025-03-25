@@ -275,6 +275,12 @@ nav {
    white-space: nowrap;
 }
 
+.main__protez-item{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
 footer {
    background-color: #053412;
 }
